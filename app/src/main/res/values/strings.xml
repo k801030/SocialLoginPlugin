@@ -1,4 +1,7 @@
 <resources>
+    <!-- Facebook -->
+    <string name="facebook_app_id">1592275441039488</string>
+
     <string name="app_name">SocialLoginPlugin</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
